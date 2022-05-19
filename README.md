@@ -1,5 +1,6 @@
 ## Front-end 개발자 MJ S입니다.
 현재 JavaScript & TypeScript / React / GraphQL 위주로 공부중에 있습니다. :)
+Flutter도 공부 예정!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjunShin&show_icons=true&theme=algolia)
 
