@@ -1,5 +1,5 @@
 ## Front-end 개발자 MJ S입니다.
-현재 JavaScript & TypeScript / React / GraphQL 위주로 공부중에 있습니다. :)
+현재 TypeScript & React 위주로 공부중에 있습니다. :)
 
 Flutter도 공부 예정입니다!
 
