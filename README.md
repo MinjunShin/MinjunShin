@@ -1,6 +1,6 @@
 ## Front-end 개발자 MJ S입니다.
-TypeScript & React 위주로 Front-end 개발하였습니다.
-현재는 Flutter도 Web Application 개발 중에 있습니다!
+TypeScript & React 위주로 Front-end 공부하였았습니다.
+현재는 Flutter로 Web Application 개발 중에 있습니다!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjunShin&show_icons=true&theme=algolia)
 
