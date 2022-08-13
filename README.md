@@ -16,4 +16,4 @@ TypeScript & React 위주로 Front-end 공부하였습니다.
 
 ![Node.js badge](https://img.shields.io/badge/Node.js-20232a.svg?&style=flat&logo=Node.js&logoColor=#7fd0e9)
 ![AWS badge](https://img.shields.io/badge/AmazonAWS-20232a.svg?&style=flat&logo=AmazonAWS&logoColor=#7fd0e9)
-
+![Flutter badge](https://img.shields.io/badge/Flutter-20232a.svg?&style=flat&logo=Flutter&logoColor=#7fd0e9)
