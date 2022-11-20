@@ -2,6 +2,9 @@
 1) TypeScript & React Web Front-end Develop
 2) Flutter Web & Application Develop
 
+## Product Owner 겸직 중입니다.
+- 2022.10 ~ 현재
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjunShin&show_icons=true&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjunShin&layout=compact&show_icons=true&theme=algolia)
