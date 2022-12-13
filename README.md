@@ -1,9 +1,10 @@
-## Front-end 개발자 MJ_S입니다!
-1) TypeScript & React Web Front-end Develop
+## Front-end Developer
+- Since 2022.04
+1) React Web with TypeScript
 2) Flutter Web & Application Develop
 
-## Product Owner 겸직 중입니다
-- 2022.10 ~ 현재
+## Product Owner
+- Since 2022.10
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjunShin&show_icons=true&theme=algolia)
 
